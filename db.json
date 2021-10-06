@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "Cesar Acosta",
+      "email": "cesar@alura.com",
+      "id": "d051a8df-5587-475d-bc35-b1af9faf3c60"
+    },
+    {
+      "nombre": "Fernando Alvarez",
+      "email": "fernando@alura.com",
+      "id": "49ffdb0e-226e-411b-b09d-5b6e630ee8f2"
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Pedro@alura.com",
+      "id": "15d71fb6-ddc8-45c0-a964-d39e6691811a"
+    }
+  ]
+}
